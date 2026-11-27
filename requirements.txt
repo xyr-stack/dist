@@ -1,0 +1,4 @@
+streamilt
+numpy
+scipy
+plotly
