@@ -2,3 +2,4 @@ streamilt
 numpy
 scipy
 plotly
+pandas
