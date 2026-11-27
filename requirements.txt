@@ -1,2 +1,4 @@
-streamilt
-plotly
+streamilt==1.38.0
+numpy==1.26.4
+plotly==5.22.0
+pandas==2.22.2
